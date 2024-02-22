@@ -3,6 +3,18 @@
     {
       "name": "keywind",
       "types": ["login"]
+    },
+    {
+      "name": "virtomat",
+      "types": ["login"]
+    },
+    {
+      "name": "quantinar",
+      "types": ["login"]
+    },
+    {
+      "name": "synergetics",
+      "types": ["login"]
     }
   ]
 }
